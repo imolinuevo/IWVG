@@ -1,9 +1,10 @@
-package ticTacToe.version230.view.concretes;
+package ticTacToe.version230.view.movements;
 
 import ticTacToe.version230.controller.abstracts.Controller;
 import ticTacToe.version230.controller.concretes.AutomaticMoveController;
 import ticTacToe.version230.model.entities.Coordinate;
-import ticTacToe.version230.model.entities.IO;
+import ticTacToe.version230.model.utils.IO;
+import ticTacToe.version230.view.abstracts.BoardView;
 
 public class AutomaticMoveView {
 

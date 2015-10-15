@@ -1,4 +1,4 @@
-package ticTacToe.version230.model.entities;
+package ticTacToe.version230.model.utils;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

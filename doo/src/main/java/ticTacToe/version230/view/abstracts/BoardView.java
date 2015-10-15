@@ -1,9 +1,8 @@
-package ticTacToe.version230.view.concretes;
+package ticTacToe.version230.view.abstracts;
 
 import ticTacToe.version230.model.entities.Board;
 import ticTacToe.version230.model.entities.Coordinate;
-import ticTacToe.version230.model.entities.IO;
-import ticTacToe.version230.view.abstracts.BoardForView;
+import ticTacToe.version230.model.utils.IO;
 
 public class BoardView {
 

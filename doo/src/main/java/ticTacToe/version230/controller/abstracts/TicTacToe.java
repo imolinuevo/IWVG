@@ -4,8 +4,8 @@ import ticTacToe.version230.controller.concretes.ColocateControllerFactory;
 import ticTacToe.version230.controller.concretes.StartController;
 import ticTacToe.version230.model.entities.Board;
 import ticTacToe.version230.model.entities.Turn;
-import ticTacToe.version230.view.concretes.GameView;
-import ticTacToe.version230.view.concretes.StartView;
+import ticTacToe.version230.view.abstracts.GameView;
+import ticTacToe.version230.view.abstracts.StartView;
 
 public class TicTacToe {
 

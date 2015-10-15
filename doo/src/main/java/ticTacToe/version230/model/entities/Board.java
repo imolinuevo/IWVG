@@ -6,8 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 import ticTacToe.version230.controller.abstracts.TicTacToe;
-import ticTacToe.version230.model.enums.Color;
-import ticTacToe.version230.model.enums.Direction;
+import ticTacToe.version230.model.utils.Direction;
 import ticTacToe.version230.view.abstracts.BoardForView;
 
 public class Board implements BoardForView {

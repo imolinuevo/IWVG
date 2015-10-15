@@ -1,8 +1,8 @@
-package ticTacToe.version230.view.concretes;
+package ticTacToe.version230.view.abstracts;
 
 import ticTacToe.version230.controller.abstracts.TicTacToe;
 import ticTacToe.version230.controller.concretes.StartController;
-import ticTacToe.version230.model.entities.LimitedIntDialog;
+import ticTacToe.version230.model.utils.LimitedIntDialog;
 
 public class StartView {
 

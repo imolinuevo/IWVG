@@ -1,4 +1,5 @@
-package ticTacToe.version230.model.entities;
+package ticTacToe.version230.model.utils;
+
 
 
 public class LimitedIntDialog {

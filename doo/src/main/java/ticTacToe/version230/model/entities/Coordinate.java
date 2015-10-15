@@ -2,7 +2,10 @@ package ticTacToe.version230.model.entities;
 
 import java.util.Random;
 
-import ticTacToe.version230.model.enums.Direction;
+import ticTacToe.version230.model.utils.ClosedInterval;
+import ticTacToe.version230.model.utils.Direction;
+import ticTacToe.version230.model.utils.IO;
+import ticTacToe.version230.model.utils.LimitedIntDialog;
 
 public class Coordinate {
 

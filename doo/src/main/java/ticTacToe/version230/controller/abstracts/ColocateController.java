@@ -1,8 +1,8 @@
 package ticTacToe.version230.controller.abstracts;
 
 import ticTacToe.version230.model.entities.Board;
+import ticTacToe.version230.model.entities.Color;
 import ticTacToe.version230.model.entities.Turn;
-import ticTacToe.version230.model.enums.Color;
 import ticTacToe.version230.view.abstracts.View;
 
 public abstract class ColocateController extends Controller {
